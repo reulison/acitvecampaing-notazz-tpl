@@ -1,4 +1,4 @@
-## Integração Entre ActiveCampaign, Notazz e TPL para Disparo Personalizado de E-mails na Petvi
+## Integração Entre ActiveCampaign, Notazz e TPL para Disparo Personalizado de E-mails
 
 Este artigo detalha a integração entre **[ActiveCampaign](https://www.activecampaign.com/ "ActiveCampaign")**, **[Notazz](https://notazz.com/ "Notazz")** e [TPL](https://www.tpl.com.br/ "TPL") para automatizar o envio de e-mails personalizados sobre a entrega de pedidos para os clientes da [Petvi](https://www.petvi.com.br/ "Petvi"). Essa solução combina conhecimentos de Marketing, Web Analytics e Desenvolvimento para otimizar a comunicação com os clientes.
 
